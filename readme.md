@@ -18,8 +18,8 @@ There are the questions with the answers:
 
 - El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
 
-	Si, como ambas ramas han salido de main y ambas han sido cambiadas los cambios se pisan y tenemos que elegir con que nos 
-	quedamos o modificar el fichero para que no se pisen
+	Si, como ambas ramas han salido de main y ambas han coincidido varias modificaciones los cambios se pisan y tenemos que elegir
+ 	con que nos quedamos o modificar el fichero para que no se pisen
 
 - El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
 
@@ -31,7 +31,8 @@ There are the questions with the answers:
 
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 
-	Si, ya que hemos cambiado solo la parte inicial del documento y mantiene todo lo de master
+	Si, ya que hemos cambiado solo la parte inicial del documento y mantiene todo lo de 
+	master sin bifurcaciones
 
 - ¿Qué comando o comandos utilizaste en el paso 27?
 
