@@ -9,27 +9,53 @@ There are the questions with the answers:
 	fichero
 
 - ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
+		
+	**git reflog** para saber los hash y **git reset --hard 029f6bd** para restaurarlo
 
 - El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
 
+	No, al hacer la rama desde main y no haberla actualizado, no existen conflictos y se actualiza la rama
+
 - El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
+
+	Si, como ambas ramas han salido de main y ambas han sido cambiadas los cambios se pisan y tenemos que elegir con que nos 
+	quedamos o modificar el fichero para que no se pisen
 
 - El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
 
+	No, styled era una versión mas actualizada de main y ya habiamos hecho merge de main a styled anteriormente
+
 - ¿Qué comando o comandos utilizaste en el paso 25?
+
+	git log --graph
 
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 
+	Si, ya que hemos cambiado solo la parte inicial del documento y mantiene todo lo de master
+
 - ¿Qué comando o comandos utilizaste en el paso 27?
+
+	**git reset HEAD~1**
 
 - ¿Qué comando o comandos utilizaste en el paso 28?
 
+	git restore git-nuestro.md
+
 - ¿Qué comando o comandos utilizaste en el paso 29?
+
+	**git branch -D title
 
 - ¿Qué comando o comandos utilizaste en el paso 30?
 
+	**git reflog**
+	**git reset 13554f4**
+
 - ¿Qué comando o comandos usaste en el paso 32?
+
+	**git reflog**
+	**git reset 755efa3**
 
 - ¿Qué comando o comandos usaste en el punto 33?
 
-
+	**git reflog**
+	**git reset 13554f4**
