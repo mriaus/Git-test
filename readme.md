@@ -49,14 +49,17 @@ There are the questions with the answers:
 - ¿Qué comando o comandos utilizaste en el paso 30?
 
 	**git reflog**
+  
 	**git reset 13554f4**
 
 - ¿Qué comando o comandos usaste en el paso 32?
 
 	**git reflog**
+  
 	**git reset 755efa3**
 
 - ¿Qué comando o comandos usaste en el punto 33?
 
 	**git reflog**
+  
 	**git reset 13554f4**
