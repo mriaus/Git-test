@@ -27,7 +27,7 @@ There are the questions with the answers:
 
 - ¿Qué comando o comandos utilizaste en el paso 25?
 
-	git log --graph
+	**git log --graph**
 
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 
@@ -39,11 +39,11 @@ There are the questions with the answers:
 
 - ¿Qué comando o comandos utilizaste en el paso 28?
 
-	git restore git-nuestro.md
+	**git restore git-nuestro.md**
 
 - ¿Qué comando o comandos utilizaste en el paso 29?
 
-	**git branch -D title
+	**git branch -D title**
 
 - ¿Qué comando o comandos utilizaste en el paso 30?
 
