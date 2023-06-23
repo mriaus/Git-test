@@ -1,4 +1,4 @@
-##This is a repo for the git practice in the mobile bootcamp with keepcoding
+# This is a repo for the git practice in the mobile bootcamp with keepcoding
 
 There are the questions with the answers:
 
