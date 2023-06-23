@@ -31,8 +31,7 @@ There are the questions with the answers:
 
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 
-	Si, ya que hemos cambiado solo la parte inicial del documento y mantiene todo lo de 
-	master sin bifurcaciones
+	Si, ya que solo hemos hecho un commit y no se ha modificado nada en main, por lo que simplemente hace falta que se mueva main al 	commit actual
 
 - ¿Qué comando o comandos utilizaste en el paso 27?
 
